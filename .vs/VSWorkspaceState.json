@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RazorPagesMovie",
+    "\\RazorPagesMovie\\RazorPagesMovie",
+    "\\RazorPagesMovie\\RazorPagesMovie\\Migrations",
+    "\\RazorPagesMovie\\RazorPagesMovie\\Models",
+    "\\RazorPagesMovie\\RazorPagesMovie\\Pages",
+    "\\RazorPagesMovie\\RazorPagesMovie\\Pages\\Movies"
+  ],
+  "SelectedNode": "\\RazorPagesMovie\\RazorPagesMovie\\Models\\Movie.cs",
+  "PreviewInSolutionExplorer": false
+}
